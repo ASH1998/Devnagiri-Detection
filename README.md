@@ -1,12 +1,11 @@
-# Devnagiri-Detection
-Detecting Devnagiri(Hindi) characters, mother of more than 200 languages using Kaggle Dataset. 
+# Devnagiri-Detection[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)  [![HitCount](http://hits.dwyl.io/ASH1998/android-digit-recogniser.svg)](http://hits.dwyl.io/ASH1998/android-digit-recogniser)
 
-## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)  [![HitCount](http://hits.dwyl.io/ASH1998/android-digit-recogniser.svg)](http://hits.dwyl.io/ASH1998/android-digit-recogniser)
+Detecting Devnagiri(Hindi) characters, mother of more than 200 languages using Kaggle Dataset. 
 
 ## Character Type:
 ![char](https://github.com/ASH1998/Devnagiri-Detection/blob/master/Images/each_char.PNG)
 
-
+## Metrics and training:
 ![new](https://github.com/ASH1998/Devnagiri-Detection/blob/master/Images/Kn.PNG)
 ![new22](https://github.com/ASH1998/Devnagiri-Detection/blob/master/Images/extremely.PNG)
 ![new2](https://github.com/ASH1998/Devnagiri-Detection/blob/master/Images/algorithm%20score.PNG)

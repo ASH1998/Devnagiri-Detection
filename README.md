@@ -10,6 +10,7 @@ Detecting Devnagiri(Hindi) characters, mother of more than 200 languages using K
 ![new22](https://github.com/ASH1998/Devnagiri-Detection/blob/master/Images/extremely.PNG)
 ![new2](https://github.com/ASH1998/Devnagiri-Detection/blob/master/Images/algorithm%20score.PNG)
 
+### Final Classifier `params`:
 ![clf](https://github.com/ASH1998/Devnagiri-Detection/blob/master/Images/finalclf.PNG)
 
 
